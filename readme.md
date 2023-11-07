@@ -20,7 +20,9 @@
 
  </h1>
  
-##   [`PLUGIN LIST`](https://github.com/Afx-Abu/PLUGIN)
+> <b><s1> plugin list</b></s1>
+    <br>
+<a href='https://github.com/Afx-Abu/PLUGIN'/></a>
 
 
 
